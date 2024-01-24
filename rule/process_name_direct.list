@@ -1,5 +1,17 @@
 # 🍎MacOS App 国内直连
-PROCESS-NAME,Infoflow
-PROCESS-NAME,DingTalk
-PROCESS-NAME,Kim
-PROCESS-NAME,node
+
+PROCESS-NAME,/Applications/QQ.app/Contents/MacOS/QQ
+PROCESS-NAME,/Applications/QQ.app/Contents/Frameworks/QQ Helper.app/Contents/MacOS/QQ Helper
+PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic
+
+PROCESS-NAME,/Applications/DingTalk.app/Contents/MacOS/DingTalk
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+
+PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信
+PROCESS-NAME,/Applications/如流.app/Contents/MacOS/Infoflow
+PROCESS-NAME,/Applications/网易有道翻译.app/Contents/MacOS/网易有道翻译
+
+PROCESS-NAME,/Applications/Kim.app/Contents/MacOS/Kim
+PROCESS-NAME,/Applications/Kim.app/Contents/Frameworks/Kim Helper (Renderer).app/Contents/MacOS/Kim Helper (Renderer)
+
+PROCESS-NAME,/Library/Input Methods/SogouInput.app/Contents/MacOS/SogouInput
