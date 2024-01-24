@@ -15,3 +15,7 @@ PROCESS-NAME,/Applications/Kim.app/Contents/MacOS/Kim
 PROCESS-NAME,/Applications/Kim.app/Contents/Frameworks/Kim Helper (Renderer).app/Contents/MacOS/Kim Helper (Renderer)
 
 PROCESS-NAME,/Library/Input Methods/SogouInput.app/Contents/MacOS/SogouInput
+
+# apple
+PROCESS-NAME,/usr/libexec/timed
+PROCESS-NAME,/usr/libexec/nsurlsessiond
