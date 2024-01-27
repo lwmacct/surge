@@ -10,6 +10,9 @@ PROCESS-NAME,/Applications/Kim.app/Contents/Frameworks/Kim Helper (Renderer).app
 PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信
 PROCESS-NAME,/Applications/企业微信.app/Contents/Resources/WeDrive/v14.17.4/bin/node
 
+PROCESS-NAME,/Applications/抖音.app/Contents/MacOS/抖音
+PROCESS-NAME,/Applications/抖音.app/Contents/Frameworks/抖音 Helper.app/Contents/MacOS/抖音 Helper
+
 PROCESS-NAME,/Applications/如流.app/Contents/MacOS/Infoflow
 PROCESS-NAME,/Applications/网易有道翻译.app/Contents/MacOS/网易有道翻译
 PROCESS-NAME,/Applications/DingTalk.app/Contents/MacOS/DingTalk
