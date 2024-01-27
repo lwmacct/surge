@@ -1,4 +1,5 @@
 PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
+
 PROCESS-NAME,/Applications/Discord.app/Contents/MacOS/Discord
 PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper
 PROCESS-NAME,/Applications/Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/MacOS/Discord Helper (Renderer)
