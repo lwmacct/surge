@@ -5,6 +5,7 @@ PROCESS-NAME,/Applications/QQ.app/Contents/Frameworks/QQ Helper.app/Contents/Mac
 PROCESS-NAME,/Applications/QQMusic.app/Contents/MacOS/QQMusic
 
 PROCESS-NAME,/Applications/Kim.app/Contents/MacOS/Kim
+PROCESS-NAME,/Applications/Kim.app/Contents/Frameworks/Kim Helper.app/Contents/MacOS/Kim Helper
 PROCESS-NAME,/Applications/Kim.app/Contents/Frameworks/Kim Helper (Renderer).app/Contents/MacOS/Kim Helper (Renderer)
 
 PROCESS-NAME,/Applications/企业微信.app/Contents/MacOS/企业微信
