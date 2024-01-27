@@ -23,3 +23,6 @@ PROCESS-NAME,/Library/Input Methods/SogouInput.app/Contents/MacOS/SogouInput
 # Apple
 PROCESS-NAME,/usr/libexec/timed
 PROCESS-NAME,/usr/libexec/nsurlsessiond
+
+# 系统应用
+PROCESS-NAME,/System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget # 天气
