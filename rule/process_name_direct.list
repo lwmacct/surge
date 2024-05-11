@@ -1,12 +1,21 @@
+PROCESS-NAME,/Applications/aDrive.app/*
 PROCESS-NAME,/Applications/QQ.app/*
+PROCESS-NAME,/Applications/QQLive.app/*
 PROCESS-NAME,/Applications/QQMusic.app/*
 PROCESS-NAME,/Applications/Kim.app/*
 PROCESS-NAME,/Applications/DingTalk.app/*
 PROCESS-NAME,/Applications/WeChat.app/*
+PROCESS-NAME,/Applications/TencentMeeting.app/*
 
-PROCESS-NAME,/Applications/抖音.app/*
 PROCESS-NAME,/Applications/如流.app/*
+PROCESS-NAME,/Applications/抖音.app/*
+PROCESS-NAME,/Applications/语雀.app/*
+PROCESS-NAME,/Applications/语雀.app/*
 PROCESS-NAME,/Applications/企业微信.app/*
+PROCESS-NAME,/Applications/哔哩哔哩.app/*
+PROCESS-NAME,/Applications/喜马拉雅.app/*
+PROCESS-NAME,/Applications/哔哩哔哩.app/*
+PROCESS-NAME,/Applications/高德地图.app/*
 PROCESS-NAME,/Applications/网易有道翻译.app/*
 
 # 非标准 App
